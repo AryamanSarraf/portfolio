@@ -226,7 +226,7 @@ tweepy==3.9.0
 twilio==6.44.1
 ujson==1.35
 unicodecsv==0.14.1
-urllib3==1.25.8
+urllib3==1.26.5
 virtualenv==20.0.27
 watchdog==0.10.2
 wcwidth==0.1.8
